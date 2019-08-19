@@ -2,7 +2,6 @@
   "name": "extensionStarter",
   "version": "0.0.1",
   "description": "chrome extension using react ",
-  "main": "index.js",
   "author": "aziz gharbi",
   "dependencies": {
     "react": "^16.9.0",
