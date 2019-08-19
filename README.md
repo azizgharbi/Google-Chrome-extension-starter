@@ -6,10 +6,6 @@
 
 Aziz
 
-## License
-
-MIT
-
 ### Chrome extension starter
 
 Work on you extension like working on signle page application then
